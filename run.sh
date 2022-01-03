@@ -21,3 +21,5 @@ echo "Renewed: $RENEW_NUMBER"
 echo "Date: $(date)"
 echo
 echo "https://macintoshgarden.org/games/escape-velocity-nova"
+echo
+python aswreg_v2.py
