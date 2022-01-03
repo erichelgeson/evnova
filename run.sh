@@ -1,5 +1,5 @@
 #!/bin/bash
-# set -x
+set -x
 source venv/bin/activate
 pip install -r requirements.txt > /dev/null
 
@@ -23,3 +23,9 @@ echo
 echo "https://macintoshgarden.org/games/escape-velocity-nova"
 echo
 python aswreg_v2.py
+
+git config --global user.email "actions@github.com"
+git config --global user.name "github"
+git add README.txt
+git commit -am "$(date)"
+git push -f
