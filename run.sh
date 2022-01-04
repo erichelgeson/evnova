@@ -22,6 +22,7 @@ echo "Date: $(date)"
 echo
 echo "https://macintoshgarden.org/games/escape-velocity-nova"
 echo
+echo "aswreg_v2.py is from https://www.reddit.com/r/evnova/comments/g3ie3x/ambrosia_and_registration/"
 python aswreg_v2.py
 
 git config --global user.email "actions@github.com"
