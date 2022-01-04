@@ -5,10 +5,11 @@ Number: 6RHG-NTFP-M889
 Date: November 9th, 2007
 
 Renewed: 69ZG-PTFP-M485
-Date: Mon Jan  3 02:11:17 UTC 2022
+Date: Tue Jan  4 17:46:07 UTC 2022
 
 https://macintoshgarden.org/games/escape-velocity-nova
 
+aswreg_v2.py is from https://www.reddit.com/r/evnova/comments/g3ie3x/ambrosia_and_registration/
 Usage
 -----
 
