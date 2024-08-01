@@ -4,8 +4,8 @@ Copies: 200
 Number: 6RHG-NTFP-M889
 Date: November 9th, 2007
 
-Renewed: 6RZG-PTFP-M887
-Date: Mon Jul  1 01:28:49 UTC 2024
+Renewed: 6RHG-PTFP-M889
+Date: Thu Aug  1 01:28:48 UTC 2024
 
 https://macintoshgarden.org/games/escape-velocity-nova
 
