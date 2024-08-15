@@ -4,8 +4,11 @@ Copies: 200
 Number: 6RHG-NTFP-M889
 Date: November 9th, 2007
 
-Renewed: 6RHG-PTFP-M889
-Date: Thu Aug  1 01:28:48 UTC 2024
+
+You should use DecoderRing instead of this script https://macintoshgarden.org/games/decoder-ring
+
+Renewed: 69ZH-NTFP-M886
+Date: Thu Aug 15 13:54:00 UTC 2024
 
 https://macintoshgarden.org/games/escape-velocity-nova
 
