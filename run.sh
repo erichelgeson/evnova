@@ -17,6 +17,9 @@ echo "Date: $DATE"
 
 RENEW_NUMBER=$(python aswreg_v2.py renew $NUMBER "$NAME" $COPIES "$GAME")
 echo
+echo
+echo "You should use DecoderRing instead of this script https://macintoshgarden.org/games/decoder-ring
+echo
 echo "Renewed: $RENEW_NUMBER"
 echo "Date: $(date)"
 echo
