@@ -7,8 +7,8 @@ Date: November 9th, 2007
 
 You should use DecoderRing instead of this script https://macintoshgarden.org/games/decoder-ring
 
-Renewed: 69ZG-PTHP-M888
-Date: Sat Feb  1 01:29:20 UTC 2025
+Renewed: 69HG-PTHP-M882
+Date: Sat Mar  1 01:29:30 UTC 2025
 
 https://macintoshgarden.org/games/escape-velocity-nova
 
